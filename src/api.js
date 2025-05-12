@@ -14,4 +14,4 @@ app.use(`/.netlify/functions/api`, router);
 
 module.exports = app;
 module.exports.handler = serverless(app);
-console.log("Serverless function is running");
+console.log("Serverless function is runningd dknkdnkdnsknkd");
